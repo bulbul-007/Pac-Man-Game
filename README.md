@@ -1,5 +1,4 @@
-# [Pacman](https://youtu.be/lB_J-VNMVpE)
-- Coding Tutorial: [https://youtu.be/lB_J-VNMVpE](https://youtu.be/lB_J-VNMVpE)
+
 
 In this tutorial, you will learn to create the pacman game with the built-in java awt/swing graphics library.
 
